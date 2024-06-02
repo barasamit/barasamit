@@ -44,3 +44,16 @@ Welcome to my GitHub page! I'm Amit Baras, a passionate Data Scientist and Machi
 ---
 
 Thank you for visiting my GitHub page! Feel free to explore my projects, reach out for collaborations, or just say hi! 😊
+
+
+# Hi There! 👋
+
+### MSc. Student @ HUJI | CV Researcher 📷
+
+I'm really into Machine learning 🤖, Computer vision 📷, and Algo-trading 📈
+
+## Publications:
+
+- "Distilling Datasets Into Less Than One Image" - [Arxiv](https://arxiv.org/abs/2012.12592)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile-url)
