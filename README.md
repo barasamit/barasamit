@@ -1,61 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amit Baras - Resume</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>Amit Baras</h1>
-        <p>4th Year B.Sc Student in Data Engineering | 1st Year M.Sc. Student in Information Systems Engineering with AI Specialization</p>
-    </header>
+# Amit Baras - Data Scientist and Machine Learning Practitioner
 
-    <section id="summary">
-        <h2>Summary</h2>
-        <p>3 years of experience in Data Science and Machine Learning in the computer vision domain. High ability for independent learning, excelling in interpersonal relationships, with a strong capability to engage people in tasks. Demonstrates excellent communication skills, works effectively under pressure, and efficiently manages multiple tasks simultaneously.</p>
-    </section>
+Welcome to my GitHub page! I'm Amit Baras, a passionate Data Scientist and Machine Learning practitioner specializing in computer vision and adversarial attacks. This page showcases my professional journey, projects, and skills.
 
-    <section id="work-experience">
-        <h2>Work Experience</h2>
-        <div class="job">
-            <h3>Researcher at CBG | Jul 2023 – Present</h3>
-            <ul>
-                <li>Leading and participating in cutting-edge research on deep learning and adversarial attacks in computer vision and LLM.</li>
-                <li>Collaborating with researchers to develop new techniques for improving attacks.</li>
-                <li>First author of “QuantAttack: Exploiting Dynamic Quantization to Attack Vision Transformers” – under review.</li>
-                <li>Contributed to “DeSparsify: Adversarial Attack Against Token Sparsification” – under review.</li>
-            </ul>
-        </div>
-        <div class="job">
-            <h3>Research Assistant at CBG | Oct 2021 - Jul 2023</h3>
-            <ul>
-                <li>Assisted in PhD-level research on computer vision and deep learning.</li>
-                <li>Enhanced model performance through innovative approaches.</li>
-                <li>Contributed to “YolOOD: Utilizing Object Detection Concepts for Multi-Label Out-of-Distribution Detection” – Accepted to CVPR.</li>
-            </ul>
-        </div>
-        <!-- Add more job experiences as needed -->
-    </section>
+## 🚀 About Me
 
-    <section id="education">
-        <h2>Education</h2>
-        <p>B.Sc. Data Engineering from Ben Gurion University of the Negev, GPA: 88.</p>
-        <p>M.Sc. Information Systems Engineering with a specialization in AI, GPA: 95.</p>
-    </section>
+- **Languages:** Hebrew (Native), English (Fluent)
+- **Education:** 
+  - B.Sc. Data Engineering from Ben Gurion University of the Negev
+  - M.Sc. Information Systems Engineering with a specialization in AI
 
-    <section id="skills">
-        <h2>Skills</h2>
-        <p>Python, Pytorch, ML, CV, LLM, Linux, Git, Pandas, NumPy, SQL, Java, C++, Huggingface, OOP.</p>
-    </section>
+## 💼 Work Experience
 
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: barasamit9@gmail.com</p>
-        <p>Phone: 054-7270656</p>
-    </section>
+### Researcher at CBG
+- Leading research on deep learning and adversarial attacks.
+- Developing new techniques for improving attacks.
 
-    <script src="script.js"></script>
-</body>
-</html>
+### Research Assistant at CBG
+- Contributed to PhD-level research on computer vision and deep learning.
+- Enhanced model performance through innovative approaches.
+
+### Mechanical Planner in Military Service
+- Designed and managed mechanical projects under high-pressure environments.
+
+## 🛠️ Projects
+
+### Research and Publications
+- **QuantAttack:** Exploiting Dynamic Quantization to Attack Vision Transformers (Under Review)
+- **DeSparsify:** Adversarial Attack Against Token Sparsification (Under Review)
+- **YolOOD:** Utilizing Object Detection Concepts for Multi-Label Out-of-Distribution Detection (Accepted to CVPR)
+
+### Notable Projects
+- [Project Name 1](https://github.com/your-username/project-name-1): Brief description of the project.
+- [Project Name 2](https://github.com/your-username/project-name-2): Brief description of the project.
+- [Project Name 3](https://github.com/your-username/project-name-3): Brief description of the project.
+
+## 📫 Contact Me
+
+- **Email:** [barasamit9@gmail.com](mailto:barasamit9@gmail.com)
+- **Phone:** 054-7270656
+- **LinkedIn:** [Amit Baras](https://www.linkedin.com/in/amit-baras/)
+- **GitHub:** [github.com/your-username](https://github.com/your-username)
+
+---
+
+Thank you for visiting my GitHub page! Feel free to explore my projects, reach out for collaborations, or just say hi! 😊
