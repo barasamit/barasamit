@@ -1,3 +1,5 @@
 # Amit Baras - Data Scientist and Machine Learning Practitioner 🚀
-**Education:** M.Sc. Information Systems Engineering with a specialization in AI | **Work Experience:** Researcher at CBG - Leading research on deep learning and adversarial attacks, Research Assistant at CBG - Contributed to PhD-level research on computer vision and deep learning | **Projects:** QuantAttack, DeSparsify, YolOOD (Research and Publications) | **Contact:** [barasamit9@gmail.com](mailto:barasamit9@gmail.com), [Amit Baras](https://www.linkedin.com/in/amit-baras/)
 
+<div align="center">
+  <img src="Monkey_Kid_Coding.gif" width="400" height="400" />
+</div>
